@@ -201,11 +201,11 @@
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Disney Junior">
-    <display-name lang="es">DISNEY JR SD</display-name>
+    <display-name lang="es">DISNEY JUNIOR SD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Disney Junior">
-    <display-name lang="es">DISNEY JR HD</display-name>
+    <display-name lang="es">DISNEY JUNIOR HD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Distrito Comedia">
@@ -281,11 +281,11 @@
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Fox">
-    <display-name lang="es">FOX SD</display-name>
+    <display-name lang="es">FOX CHANNEL SD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Fox">
-    <display-name lang="es">FOX HD</display-name>
+    <display-name lang="es">FOX CHANNEL HD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Fox Life">
@@ -369,11 +369,11 @@
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal FXM (México)">
-    <display-name lang="es">FX SD</display-name>
+    <display-name lang="es">FXM SD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal FXM (México)">
-    <display-name lang="es">FX HD</display-name>
+    <display-name lang="es">FXM HD</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Canal Golden">
